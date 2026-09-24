@@ -147,20 +147,9 @@ Each row is one order, with 21 columns assembled from lookup tables for cities, 
 
 ---
 
-## 📁 Repository Structure
 
-```
-food-delivery-analysis/
-├── README.md
-├── data/
-│   └── food_delivery_orders.csv
-├── dashboard/
-│   └── food_delivery_dashboard.xlsx
-└── images/
-    └── FoodDelivery.png
-```
 
----
 
-👤 **Rakesh**, aspiring Data Analyst
+
+👤 **Likhitha HN**, aspiring Data Analyst
 [LinkedIn](#) · [GitHub](#)
