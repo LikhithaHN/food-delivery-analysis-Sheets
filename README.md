@@ -6,7 +6,7 @@ An end-to-end analysis of **8,568 food delivery orders** across **5 Indian citie
 
 ## 📈 Food Delivery Performance Dashboard
 
-![Food Delivery Performance Dashboard](images/FoodDelivery.png)
+![Food Delivery Performance Dashboard](FoodDelivery.png)
 
 ---
 
