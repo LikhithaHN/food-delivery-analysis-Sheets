@@ -4,7 +4,7 @@ An end-to-end analysis of **8,568 food delivery orders** across **5 Indian citie
 
 🔗 **[View the live spreadsheet](https://docs.google.com/spreadsheets/d/1SgRyEL5y3HWO1whouk4umbfAoH79tBNjHVHrbqaCji4/edit?usp=sharing)** (view-only)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/FoodDelivery.png)
 
 ---
 
