@@ -4,7 +4,9 @@ An end-to-end analysis of **8,568 food delivery orders** across **5 Indian citie
 
 🔗 **[View the live spreadsheet](https://docs.google.com/spreadsheets/d/1SgRyEL5y3HWO1whouk4umbfAoH79tBNjHVHrbqaCji4/edit?usp=sharing)** (view-only)
 
-![Dashboard](images/FoodDelivery.png)
+## 📈 Food Delivery Performance Dashboard
+
+![Food Delivery Performance Dashboard](images/FoodDelivery.png)
 
 ---
 
@@ -28,7 +30,7 @@ An end-to-end analysis of **8,568 food delivery orders** across **5 Indian citie
 
 ## 🖥️ Dashboard Walkthrough
 
-The dashboard has 6 KPI cards and 12 charts, arranged in pairs:
+The **Food Delivery Performance Dashboard** has 6 KPI cards and 12 charts, arranged in pairs:
 
 | # | Chart | Type | What it shows |
 |---|---|---|---|
@@ -155,7 +157,7 @@ food-delivery-analysis/
 ├── dashboard/
 │   └── food_delivery_dashboard.xlsx
 └── images/
-    └── dashboard.png
+    └── FoodDelivery.png
 ```
 
 ---
